@@ -1,6 +1,9 @@
 /**
  * @author david
  */
+/**
+ * Representa a un estudiante
+ */
 public class Estudiante {
     private String nombreEstudiante;  
     private int idEstudiante;         
@@ -28,6 +31,7 @@ public class Estudiante {
      * Metodo que devuelve el id del estudiante
      * @return
      */
+    
     public int getIdEstudiante() {
     	return this.idEstudiante;
     }

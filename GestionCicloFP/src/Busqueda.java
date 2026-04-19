@@ -1,6 +1,9 @@
 /**
  * @author david
  */
+/**
+ * Aqui estan los metodos de busqueda de estudiantes y ciclos
+ */
 import java.util.ArrayList;
 
 public class Busqueda {

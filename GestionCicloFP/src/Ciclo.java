@@ -1,6 +1,9 @@
 /**
  * @author david
  */
+/**
+ * Representa un ciclo con sus alumnos
+ */
 import java.util.ArrayList;
 
 public class Ciclo {
